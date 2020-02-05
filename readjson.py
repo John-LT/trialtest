@@ -16,3 +16,4 @@ for j in data:
     else:
         area = 'Rural'
     print("user"+str(a),"\n \tUsername:",j['username'],"\n","\tPhone:",j['phone'],"\n","\tLocation:",j['location'],"\n","\tAREA:",area)
+ 
